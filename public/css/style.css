@@ -22,3 +22,10 @@ img {
 a{
   text-decoration: none;
 }
+
+header {
+  background: lightblue;
+  padding: 1em;
+  text-align: center;
+  border: 2px solid darkblue;
+}
