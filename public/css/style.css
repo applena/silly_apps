@@ -5,6 +5,7 @@ body{
 
 #portfolio{
   display: flex;
+  flex-wrap: wrap;
 }
 
 div{
